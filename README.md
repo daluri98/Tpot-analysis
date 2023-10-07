@@ -98,7 +98,8 @@ tpot.fit(X_train, y_train)
 
 TPOT selected a _**RandomForestRegressor**_ as the best model after exploring various machine learning pipelines and models. It imples that the random forest regressor yielded the lowest mean squared error (MSE) on the training data. Random forests are known for their robustness and ability to capture complex relationships in data, making them a good choice for regression tasks.After extracting the best pipeline model, the model is evaluated using common regression metrics, including Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R2).  However, the accuracy metrics may not have yielded the desired results as the parameters for the _TPOTRegressor_ are set for an experimentation. The accuracy for the model can be improved by further experiementing the parameters or throught methods like Feature Engineering, Hyperparameter Tuning,Ensemble Methods, etc.
 
-## Identifying Factors Affecting Insurance Charges
+**Identifying Factors Affecting Insurance Charges**
+
 This section explores the factors that have the most significant influence on insurance charges. Understanding the importance of various features can provide valuable insights for data analysis and decision-making.
 
 ```python
@@ -127,17 +128,17 @@ We've taken the model trained by TPOT and utilized it to make predictions on the
 
 These data transformation steps ensure that the dataset is enriched with predictive insights while maintaining clarity and comprehensibility for subsequent analysis and reporting.
 
-## Interactive Dashboard for Data Exploration
+**Interactive Dashboard for Data Exploration**
 
 This project has an simple yet interactive dashboard that allows users to explore and draw insights from the data seamlessly. The dashboard incorporates a variety of charts, graphs, and interactive controls to enhance the data exploration experience.
 
-### Key Features of the Interactive Dashboard:
+Key Features of the Interactive Dashboard:
 
 - **Visualization:** The dashboard includes visually appealing charts and graphs that provide a clear representation of data trends and patterns.
 - **Interactivity:** Users can interact with the dashboard by applying filters, selecting data points, and adjusting parameters to focus on specific aspects of the dataset.
 - **Insights:** The interactive controls allow users to uncover insights, identify correlations, and answer questions about the dataset.
 
-### Getting Started with the Dashboard:
+**Getting Started with the Dashboard:**
 
 To begin exploring the dataset and drawing insights, follow these simple steps:
 
