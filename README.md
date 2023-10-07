@@ -1,10 +1,10 @@
 # Tpot-analysis
-A reference to create an interactive insurance charges prediction dashboard using machine learning with TPOT and Google Data Studio. The workflow encompasses data preprocessing, model training, evaluation, and the creation of a dynamic and informative dashboard.
+A reference to create an interactive insurance charges prediction report using machine learning with TPOT and Google Data Studio. The workflow encompasses data preprocessing, model training, evaluation, and the creation of an interactive and informative report.
 Please find the Google Colaboratory Notebook in the link below if you face "Unable to render code block" error for the .ipynb file.
 
 Project Link: https://nbviewer.org/github/daluri98/Tpot-analysis/blob/main/predict_charges.ipynb
 
-Dashboard: https://lookerstudio.google.com/reporting/f39616b8-0a41-4ea0-a8bc-2af77abe2bcb/page/p_ddxvtwkjad
+Interactive Report: https://lookerstudio.google.com/reporting/f39616b8-0a41-4ea0-a8bc-2af77abe2bcb/page/p_ddxvtwkjad
 
 
 ## Table of Contents
@@ -128,30 +128,30 @@ We've taken the model trained by TPOT and utilized it to make predictions on the
 
 These data transformation steps ensure that the dataset is enriched with predictive insights while maintaining clarity and comprehensibility for subsequent analysis and reporting.
 
-**Interactive Dashboard for Data Exploration**
+**Interactive Report for Data Exploration**
 
-This project has an simple yet interactive dashboard that allows users to explore and draw insights from the data seamlessly. The dashboard incorporates a variety of charts, graphs, and interactive controls to enhance the data exploration experience.
+This project has an simple yet interactive report that allows users to explore and draw insights from the data seamlessly. The report incorporates a variety of charts, graphs, and interactive controls to enhance the data exploration experience.
 
-Key Features of the Interactive Dashboard:
+Key Features of the Interactive Report:
 
-- **Visualization:** The dashboard includes visually appealing charts and graphs that provide a clear representation of data trends and patterns.
+- **Visualization:** The report includes visually appealing charts and graphs that provide a clear representation of data trends and patterns.
 - **Interactivity:** Users can interact with the dashboard by applying filters, selecting data points, and adjusting parameters to focus on specific aspects of the dataset.
 - **Insights:** The interactive controls allow users to uncover insights, identify correlations, and answer questions about the dataset.
 
-**Getting Started with the Dashboard:**
+**Getting Started with the Report:**
 
 To begin exploring the dataset and drawing insights, follow these simple steps:
 
-1. [**Access the Dashboard**](https://lookerstudio.google.com/reporting/f39616b8-0a41-4ea0-a8bc-2af77abe2bcb/page/p_ddxvtwkjad)
+1. [**Access the Report**](https://lookerstudio.google.com/reporting/f39616b8-0a41-4ea0-a8bc-2af77abe2bcb/page/p_ddxvtwkjad)
 2. **Navigate:** Familiarize yourself with the dashboard's layout and available controls. 
 3. **Interact:** Experiment with sliders, selection options, and parameters to interact with the data.
-4. **Analyze:** Use the dashboard to analyze trends, compare data points, and make data-driven decisions.
+4. **Analyze:** Use the report to analyze trends, compare data points, and make data-driven decisions.
 5. **Save and Share:** If desired, save customized views or share specific insights with others.
 
-The interactive dashboard is a valuable tool for data exploration and decision-making, offering an intuitive and engaging way to interact with the dataset. The dashboard makes the data exploration journey informative and enjoyable for a data analyst, a business stakeholder, or anyone interested in gaining insights.
+The report is a valuable tool for data exploration and decision-making, offering an intuitive and engaging way to interact with the dataset. It makes the data exploration journey informative and enjoyable for a data analyst, a business stakeholder, or anyone interested in gaining insights.
 
 ## Conclusion
-This project leverages TPOT to streamline deriving insights from data and making data-driven decisions. Combining automated data analysis with interactive visualizations using Google Data Studio, the project creates a valuable tool for exploring trends, identifying factors affecting insurance charges, and making informed decisions. With a focus on transparency and ease of use, the interactive dashboard allows users to interact with the data seamlessly, making the data exploration informative and enjoyable. 
+This project leverages TPOT to streamline deriving insights from data and making data-driven decisions. Combining automated data analysis with interactive visualizations using Google Data Studio, the project creates a valuable tool for exploring trends, identifying factors affecting insurance charges, and making informed decisions. With a focus on transparency and ease of use, the interactive report allows users to interact with the data seamlessly, making the data exploration informative and enjoyable. 
 
 ## References
 
