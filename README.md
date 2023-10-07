@@ -155,11 +155,11 @@ This project leverages TPOT to streamline deriving insights from data and making
 
 ## References
 
-1. **Genetic Programming:** [Read Introduction to Genetic Programming](https://medium.datadriveninvestor.com/an-introduction-to-genetic-programming-94ad22adbf35)
+1. **Project Idea adapted from:** [Power BI Microsoft Projects Examples and Ideas for Practice](https://www.projectpro.io/article/power-bi-microsoft-projects-examples-and-ideas-for-practice/533)
 
-2. **TPOT (Tree-based Pipeline Optimization Tool) Documentation:** [Official TPOT Documentation](http://epistasislab.github.io/tpot/)
+2. **Genetic Programming:** [Read Introduction to Genetic Programming](https://medium.datadriveninvestor.com/an-introduction-to-genetic-programming-94ad22adbf35)
 
-3. **Power BI Microsoft Projects and Examples:** [Power BI Microsoft Projects Examples and Ideas for Practice](https://www.projectpro.io/article/power-bi-microsoft-projects-examples-and-ideas-for-practice/533)
+3. **TPOT (Tree-based Pipeline Optimization Tool) Documentation:** [Official TPOT Documentation](http://epistasislab.github.io/tpot/)
 
 4. **Data Analysis Example During the COVID-19 Pandemic:** [An Analysis of Daily Mortality in France During the COVID-19 Pandemic](https://towardsdatascience.com/an-analysis-of-daily-mortality-in-france-during-the-covid19-pandemic-95286928e80c)
 
