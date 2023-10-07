@@ -2,7 +2,9 @@
 A reference to create an interactive insurance charges prediction dashboard using machine learning with TPOT and Google Data Studio. The workflow encompasses data preprocessing, model training, evaluation, and the creation of a dynamic and informative dashboard.
 Please find the Google Colaboratory Notebook in the link below if you face "Unable to render code block" error for the .ipynb file.
 
-Link: https://nbviewer.org/github/daluri98/Tpot-analysis/blob/main/predict_charges.ipynb
+Project Link: https://nbviewer.org/github/daluri98/Tpot-analysis/blob/main/predict_charges.ipynb
+
+Dashboard: https://lookerstudio.google.com/reporting/f39616b8-0a41-4ea0-a8bc-2af77abe2bcb/page/p_ddxvtwkjad
 
 
 ## Table of Contents
